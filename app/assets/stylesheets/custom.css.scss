@@ -103,9 +103,11 @@ footer {
    ul {
      float: right;
      list-style: none; 
+     display: inline; 
 	li {
 	  float: left; 
 	  margin-left: 10px; 
+	  display: inline; 
 	  }
        }      
     }
