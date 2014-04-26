@@ -7,10 +7,13 @@ gem 'bootstrap-sass', '2.3.2.0'
 gem 'sprockets'
 gem 'bcrypt-ruby'
 gem 'bcrypt' 
+gem 'foreman'
+gem 'figaro'
 
 # Use sqlite3 as the database for Active Record
 group :development, :test do 
 gem 'sqlite3'
+gem 'rspec'
 gem 'rspec-rails'
 end 
 
