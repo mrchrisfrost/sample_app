@@ -9,6 +9,9 @@ gem 'bcrypt-ruby'
 gem 'bcrypt' 
 gem 'foreman'
 gem 'figaro'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 # Use sqlite3 as the database for Active Record
 group :development, :test do 
