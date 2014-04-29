@@ -12,7 +12,7 @@ gem 'figaro'
 gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
-
+#gem 'i18n-js'
 # Use sqlite3 as the database for Active Record
 group :development, :test do 
 gem 'sqlite3'
